@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: Machine-Learning-Projects
+Version: 0.0.1
+Author: Santosh
+Author-email: santhoshnaiduv@gmail.com
+Requires-Dist: pandas
+Requires-Dist: seaborn
+Requires-Dist: numpy
